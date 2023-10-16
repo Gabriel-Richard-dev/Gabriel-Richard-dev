@@ -15,7 +15,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um apaixonado desenvolvedor brasileiro, f
 
 ## Projetos Destacados
 
-- 🚀 **FirstWebApiCsharp**: Um projeto emocionante que estou desenvolvendo. [Explore aqui](https://github.com/Gabriel-Richard-dev/ManagerAPI-1).
+- 🚀 **FirstWebApiCsharp**: Um projeto emocionante que estou desenvolvendo. [Explore aqui](https://github.com/Gabriel-Richard-dev?tab=repositories).
 
 ## Estatísticas do GitHub
 
