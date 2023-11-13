@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um apaixonado desenvolvedor brasileiro, f
 
 - 👨‍💻 Desenvolvedor C# e .NET entusiasta.
 - 🌱 Atualmente explorando e aprendendo novas tecnologias.
-- 🚀 Trabalhando no projeto [API - Manager](https://github.com/Gabriel-Richard-dev/ManagerAPI-1).
+- 🚀 Trabalhando nesse projeto => [Clique para Ver](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).
 
 ## Principais Habilidades
 
