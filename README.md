@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um apaixonado desenvolvedor brasileiro, f
 
 - 👨‍💻 Desenvolvedor C# e .NET entusiasta.
 - 🌱 Atualmente explorando e aprendendo novas tecnologias.
-- 🚀 Trabalhando nesse projeto => [Clique para Ver](https://github.com/Gabriel-Richard-dev/To-Do.API).
+- 🚀 Trabalhando nesse projeto To-Do Api => [Clique para Ver](https://github.com/Gabriel-Richard-dev/To-Do.API).
 
 ## Principais Habilidades
 
