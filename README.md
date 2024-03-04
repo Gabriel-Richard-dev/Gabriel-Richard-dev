@@ -6,16 +6,11 @@ Bem-vindo ao meu perfil do GitHub! Sou um apaixonado desenvolvedor brasileiro, f
 
 - 👨‍💻 Desenvolvedor C# e .NET entusiasta.
 - 🌱 Atualmente explorando e aprendendo novas tecnologias.
-- 🚀 Trabalhando nesse projeto To-Do Api => [Clique para Ver](https://github.com/Gabriel-Richard-dev/To-Do.API).
 
 ## Principais Habilidades
 
 - [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/Gabriel-Richard-dev/FirstWebApiCsharp)
 - [![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/Gabriel-Richard-dev/FirstWebApiCsharp)
-
-## Projetos Destacados
-
-- 🚀 **FirstWebApiCsharp**: Um projeto emocionante que estou desenvolvendo. [Explore aqui](https://github.com/Gabriel-Richard-dev?tab=repositories).
 
 ## Estatísticas do GitHub
 
@@ -30,9 +25,5 @@ Bem-vindo ao meu perfil do GitHub! Sou um apaixonado desenvolvedor brasileiro, f
 - 📧 **Email:** [![Contato](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielrichard.contato@gmail.com)
 - 📋 **Portfólio:** [Portfólio](https://seu-portfolio-aqui.com)
 - 💼 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-richard-ti/)
-
-## Certificações e Conquistas
-
-- Certificação em C# pela [Balta.io]((https://balta.io/)).
 
 Fique à vontade para explorar meus projetos e entrar em contato!
