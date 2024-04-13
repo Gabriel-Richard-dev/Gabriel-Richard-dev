@@ -9,9 +9,14 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor brasileiro, focado em C#
 - Trabalhando no Time de Desenvolvimento do IFCE Campus Maracanaú.
 
 ## SKILLS
-<center>
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,mysql,azure,aws)](https://skillicons.dev)
-</center>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,azure,aws, git" />
+  </a>
+</p>
+
+
 Fique à vontade para explorar meus projetos e entrar em contato!
 
 ## Contato
