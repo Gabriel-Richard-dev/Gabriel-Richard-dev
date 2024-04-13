@@ -15,7 +15,4 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor brasileiro, focado em C#
 
 Fique à vontade para explorar meus projetos e entrar em contato!
 
-## Contato
 
-<a href="instagram.com/gabrielrichar.d">Instagram</a>
-    
