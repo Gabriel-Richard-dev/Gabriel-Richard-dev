@@ -10,15 +10,12 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor brasileiro, focado em C#
 
 ## SKILLS
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,azure,aws, git" />
-  </a>
-</p>
 
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,mysql,azure,aws,git)](https://skillicons.dev)
 
 Fique à vontade para explorar meus projetos e entrar em contato!
 
 ## Contato
 
+<a href="instagram.com/gabrielrichar.d">Instagram</a>
     
