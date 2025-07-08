@@ -4,14 +4,13 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor brasileiro, focado em C#
 
 ## Sobre mim
 
-- 👨‍💻 Desenvolvedor C# e .NET.
+- 👨‍💻 Desenvolvedor Java (Spring Boot), Angular (JS), C# (.NET).
 - 🌱 Atualmente explorando e aprendendo novas tecnologias.
-- Trabalhando no Time de Desenvolvimento do IFCE Campus Maracanaú.
 
 ## SKILLS
 
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,mysql,azure,aws,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,springboot,javascript,angular,cs,dotnet,mysql,azure,aws,git)](https://skillicons.dev)
 
 Fique à vontade para explorar meus projetos e entrar em contato!
 
