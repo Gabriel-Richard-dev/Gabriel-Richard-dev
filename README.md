@@ -12,6 +12,10 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor fullstack, focado em Spr
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,django,javascript,angular,cs,dotnet,mysql,azure,aws,git)](https://skillicons.dev)
 
+## GRÁFICOS
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-richard-dev)](https://github.com/anuraghazra/github-readme-stats)
+
 Fique à vontade para explorar meus projetos e entrar em contato!
 
 
