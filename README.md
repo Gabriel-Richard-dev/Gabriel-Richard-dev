@@ -1,6 +1,6 @@
 # Olá, eu sou Gabriel Richard!
 
-Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor fullstack, focado em Spring (Java), Angular (Typescript) e Django (Python), estudante de Ciência da Computação no Instituto Federal do Ceará, sempre em busca de aprendizado contínuo e melhorias constantes.
+Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor fullstack, focado em Spring (Java), Angular (Typescript) e Django (Python), estudante de Ciência da Computação no Instituto Federal do Ceará e bolsista em projetos do Polo de Inovação por meio do @labnuven, sempre em busca de aprendizado contínuo e melhorias constantes.
 
 ## Sobre mim
 
