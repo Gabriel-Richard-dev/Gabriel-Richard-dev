@@ -10,7 +10,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor fullstack, focado em Spr
 ## SKILLS
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,django,javascript,angular,cs,dotnet,mysql,azure,aws,git,docker,kubernets,psql,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,django,javascript,angular,cs,dotnet,mysql,azure,aws,git,docker,postgres,nginx)](https://skillicons.dev)
 
 
 Fique à vontade para explorar meus projetos e entrar em contato!
