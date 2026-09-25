@@ -4,9 +4,7 @@
   </a>
 </p>
 
-```bash
-gabrielrichard@richardos:~$ neofetch
-```
+
 ```text
         ██████╗ ██████╗        gabrielrichard@richardos
        ██╔════╝ ██╔══██╗       ------------------------
@@ -61,14 +59,6 @@ gabrielrichard@richardos:~$ neofetch
 </p>
 
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabriel-Richard-dev/Gabriel-Richard-dev/output/github-snake-dark.svg" />
-    <img alt="snake eating contributions" src="https://raw.githubusercontent.com/Gabriel-Richard-dev/Gabriel-Richard-dev/output/github-snake.svg" />
-  </picture>
-</p>
-
-
 ## `gabrielrichard@richardos:~$ ./contact.sh`
 
 <p align="center">
@@ -83,4 +73,3 @@ gabrielrichard@richardos:~$ neofetch
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1500&color=58A6FF&center=true&vCenter=true&width=520&lines=gabrielrichard%40richardos%3A~%24+shutdown+-h+now;Fique+%C3%A0+vontade+para+explorar+meus+projetos!;Soli+Deo+Gloria+%E2%9C%9D%EF%B8%8F" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:0A3069,100:0D1117&height=100&section=footer" width="100%" />
