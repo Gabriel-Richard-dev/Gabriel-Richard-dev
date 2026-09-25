@@ -63,8 +63,8 @@
 
 <p align="center">
   <a href="https://gabrielrichard.dev"><img src="https://img.shields.io/badge/Portfólio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" /></a>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" /></a>
-  <a href="mailto:SEU-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" /></a>
+  <a href="https://www.linkedin.com/in/gabriel-richard-ti"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" /></a>
+  <a href="mailto:gabrielrichard.contato@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" /></a>
   <a href="https://github.com/Gabriel-Richard-dev"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" /></a>
   <img src="https://komarev.com/ghpvc/?username=Gabriel-Richard-dev&style=for-the-badge&color=1F6FEB&label=VISITAS" />
 </p>
