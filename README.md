@@ -1,11 +1,5 @@
 <p align="center">
   <a href="https://gabrielrichard.dev">
-    <img src="https://img.shields.io/badge/%3E_open_portfolio-gabrielrichard.dev-1F6FEB?style=for-the-badge&labelColor=0D1117" alt="Portfólio" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://gabrielrichard.dev">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=850&pause=300&color=58A6FF&background=0D1117&multiline=true&repeat=false&width=640&height=285&lines=%3E+booting+RichardOS+v1.0.0+...;%5B++OK++%5D+Loading+kernel%3A+java-spring-boot.ko;%5B++OK++%5D+Mounting+%2Fdev%2Fangular;%5B++OK++%5D+Starting+django.service;%5B++OK++%5D+Starting+dotnet.service;%5B++OK++%5D+Brewing+coffee...+100%25;%5B++OK++%5D+Connecting+to+IFCE+%26+NUVEN+network;richardos+login%3A+gabrielrichard;password%3A+%23%23%23%23%23%23%23%23;%3E+Access+granted.+I+love+you+God!;gabrielrichard%40richardos%3A~%24+open+gabrielrichard.dev" alt="RichardOS boot sequence" />
   </a>
 </p>
