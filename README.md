@@ -10,22 +10,6 @@
   </a>
 </p>
 
-
-```text
-        ██████╗ ██████╗        gabrielrichard@richardos
-       ██╔════╝ ██╔══██╗       ------------------------
-       ██║  ███╗██████╔╝       OS:        RichardOS x86_64
-       ██║   ██║██╔══██╗       Host:      IFCE · Polo de Inovação
-       ╚██████╔╝██║  ██║       Lab:       NUVEN (Visão Computacional & Engenharia)
-        ╚═════╝ ╚═╝  ╚═╝       Shell:     Java · C# · Python · TypeScript
-                               Backend:   Spring Boot · .NET · Django
-                               Frontend:  Angular
-                               Cloud:     Azure · AWS · Docker · Nginx
-                               DB:        PostgreSQL · MySQL
-                               Web:       https://gabrielrichard.dev
-                               Uptime:    powered by coffee ☕ & faith ✝️
-```
-
 <p align="center">
   <a href="https://gabrielrichard.dev">
     <img src="https://img.shields.io/badge/%3E_open_portfolio-gabrielrichard.dev-1F6FEB?style=for-the-badge&labelColor=0D1117" alt="Portfólio" />
@@ -60,9 +44,7 @@
   <img src="https://streak-stats.demolab.com?user=Gabriel-Richard-dev&hide_border=true&background=0D1117&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E&stroke=30363D" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gabriel-Richard-dev&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=E6EDF3&area=true&area_color=1F6FEB&hide_border=true" />
-</p>
+
 
 
 ## `gabrielrichard@richardos:~$ ./contact.sh`
